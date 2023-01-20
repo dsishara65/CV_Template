@@ -1,2 +1,2 @@
 # cv_template
-This is a sample CV template created using HTML and CSS. It has a clean and modern design, making it easy to read and navigate. 
+This is a sample CV template created using HTML and CSS. It has a clean and modern design, making it easy to read and navigate. The template includes sections for your personal information, education, work experience, skills and achievements. The template uses CSS for styling, including typography, color, and layout. The design is fully responsive, making it easy to view on any device. It's a great starting point for creating your own professional CV, and it can be easily customized to match your personal brand and style.
